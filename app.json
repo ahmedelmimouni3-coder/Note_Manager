@@ -1,0 +1,7 @@
+{
+  "name": "Note Manager",
+  "version": 1.0,
+  "what is new": "النسخة الأولى من Note       Manager.\n- حماية الملاحظات بكلمة مرور\n- ترجمة الملاحظات بمحركات متعددة\n- دعم اللغات: العربية، الإنجليزية، الفرنسية\n- حفظ الملاحظات بصيغ متعددة\n- سلة المحذوفات مع إمكانية الاستعادة",
+  "download": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/NoteManager_Setup.exe",
+  "is_beta": false
+}
